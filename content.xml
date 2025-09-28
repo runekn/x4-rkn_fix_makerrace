@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="rkn_vro_fix_races" name="Fix shipmods makerrace" description="Many shipmods do not include the makerrace attribute. This mod tries to patch makerrace in to which ever ship mods I notice missing it." author="Runekn" version="0100" date="2024-07-03" save="0" lastupdate="1659369214">
+  <text language="7" name="Fix shipmods makerrace" description="Many shipmods do not include the makerrace attribute. This mod tries to patch makerrace in to which ever ship mods I notice missing it." author="Runekn"></text>
+  <dependency id="ws_1696862840" name="Variety and Rebalance Overhaul" optional="true"></dependency>
+  <dependency id="lc4hunter_argon_basilisk" optional="true" name="Argon Basilisk"></dependency>
+  <dependency id="lc4hunter_argon_basilisk_vro" optional="true" name="Argon Basilisk VRO"></dependency>
+  <dependency id="lc4hunter_split_python" optional="true" name="Split Python"></dependency>
+  <dependency id="lc4hunter_split_python_vro" optional="true" name="Split Python VRO patch"></dependency>
+  <dependency id="reemergence" optional="true" name="X4:Reemergence"></dependency>
+  <dependency id="re_expansion_pirate" optional="true" name="X4:RE Expansion - Skull and Bones"></dependency>
+  <dependency id="otas_shippack" optional="true" name="OTAS Shippack"></dependency>
+  <dependency id="axeskeavro" optional="true" name="Teladi Kea VRO"></dependency>
+  <dependency id="axeskea" optional="true" name="Teladi Kea"></dependency>
+  <dependency id="ws_3404629275" optional="true" name="Nova E fighter"></dependency>
+  <dependency id="ws_3404630594" optional="true" name="Nova E fighter VRO"></dependency>
+</content>
