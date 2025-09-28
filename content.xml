@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="rkn_vro_fix_races" name="Fix shipmods makerrace" description="Many shipmods do not include the makerrace attribute. This mod tries to patch makerrace in to which ever ship mods I notice missing it." author="Runekn" version="0100" date="2024-07-03" save="0" lastupdate="1659369214">
+<content id="rkn_vro_fix_races" name="Fix shipmods makerrace" description="Many shipmods do not include the makerrace attribute. This mod tries to patch makerrace in to which ever ship mods I notice missing it." author="Runekn" version="200" date="2025-09-28" save="0" lastupdate="1659369214">
   <text language="7" name="Fix shipmods makerrace" description="Many shipmods do not include the makerrace attribute. This mod tries to patch makerrace in to which ever ship mods I notice missing it." author="Runekn"></text>
   <dependency id="ws_1696862840" name="Variety and Rebalance Overhaul" optional="true"></dependency>
   <dependency id="lc4hunter_argon_basilisk" optional="true" name="Argon Basilisk"></dependency>
