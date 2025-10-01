@@ -17,5 +17,6 @@ Many shipmods do not include the makerrace attribute. This mod tries to patch ma
 
 ## Updates
 
+* 2.1: Remove Reemergence patch, since latest update has all makerrace. Add fix for Crane E (Gas) and Pheonix E to VRO patch.
 * 2.0: Change mod to general shipmod makerrace fix. Support more ship mods.
 * 1.0: Initial release, supporting only VRO.
